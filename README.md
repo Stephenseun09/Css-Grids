@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Stephenseun09/Css-Grids/
+- Live Site URL: https://stephenseun09.github.io/Css-Grids/
 
 ## My process
 
